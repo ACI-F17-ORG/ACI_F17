@@ -25,7 +25,6 @@ Be a reasonable person as described at Carnegie Mellon's CS site: __[Reasonable 
 #### Books
 Also check RPI Library's Safari On-line collection for these.
 - [Programming Interactivity](http://www.amazon.com/Programming-Interactivity-Joshua-Noble/dp/144931144X/ref=sr_1_1?ie=UTF8&qid=1377466182&sr=8-1&keywords=programming+interactivity). 2ND Edition. Joshua Noble.
-- [Getting Started with Arduino](http://www.amazon.com/Getting-Started-Arduino-Massimo-Banzi/dp/1449309879/ref=pd_sim_b_13) Massimo Banzi.
 
 #### C++
 - [C++ Language Tutorial](http://www.cplusplus.com/doc/tutorial)
